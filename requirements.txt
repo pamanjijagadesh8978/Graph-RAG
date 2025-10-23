@@ -1,0 +1,24 @@
+# Core framework
+streamlit>=1.38.0
+
+# LangChain and Google GenAI integration
+langchain>=0.3.0
+langchain-google-genai>=0.3.0
+google-generativeai>=0.8.3
+
+# Data handling
+pandas>=2.2.2
+numpy>=1.26.4
+pickle-mixin>=1.0.2
+
+# Optional (for graph or vector extensions)
+networkx>=3.3
+faiss-cpu>=1.8.0.post1
+tiktoken>=0.7.0
+
+# Utility libraries
+python-dotenv>=1.0.1
+requests>=2.32.3
+
+# Notebook environment (for KG.ipynb)
+jupyter>=1.1.1
