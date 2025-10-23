@@ -114,14 +114,14 @@ Then open the local URL shown (usually `http://localhost:8501`).
 You can include screenshots here (add them to your repo as `images/` folder):
 
 ```markdown
-### 🖼️ App Interface
-![App UI](images/app_ui.png)
+### 🖼️ KnowledgeGraphs
+![KnowledgeGraph](k1.jpg)
+![KnowledgeGraph](k2.jpg)
 
 ### 💬 Example Chat
-![Chat Example](images/chat_example.png)
+![Chat Example](K3.jpg)
+![Chat Example](k4.jpg)
 ```
-
-*(Replace the file names with your actual screenshot names, e.g., `chat_1.png`, `dashboard.png`.)*
 
 ---
 
