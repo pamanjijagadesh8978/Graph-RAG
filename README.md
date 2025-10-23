@@ -145,11 +145,6 @@ If you’d like to improve knowledge graph creation, retrieval, or UI:
 4. Submit a pull request
 
 ---
-
-### 📜 License
-
-This project is licensed under the **MIT License** — free for educational and research use.
-
 ---
 
 ### 🧩 Tech Stack
@@ -164,6 +159,3 @@ This project is licensed under the **MIT License** — free for educational and 
 | Language     | Python 3.10+             |
 
 ---
-
-Would you like me to automatically generate the **screenshot section Markdown** with your actual uploaded images (once you send them)?
-If you upload your screenshots (PNG/JPG), I can insert proper Markdown image tags with captions into this README.
